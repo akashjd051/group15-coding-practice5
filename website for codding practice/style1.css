@@ -1,0 +1,44 @@
+Body
+{background:#262626;
+}
+.effect{
+Width:1200px;
+Padding:9% 40px;
+Margin:0 auto;
+
+}
+a{
+Width:180px;
+Display:block;
+Margin:5% 20px;
+Padding:20px 0px;
+Text-align:center;
+Font-family:"arial"
+Font size:16px;
+Font-weight:bold;
+Color:#fff;
+Position:relative;
+Text-decoloration:none;
+left:25%
+}
+a:nth-child(1)
+{
+Background:orange;
+Border radius:10px;
+
+}
+a:nth-child(2)
+{
+Background:orange;
+Border radius:10px;
+}
+a:nth-child(3)
+{
+Background:orange;
+Border radius:10px;
+}
+a:nth-child(4)
+{
+Background:orange;
+Border radius:20px
+}
